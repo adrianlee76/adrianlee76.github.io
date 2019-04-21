@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Stupid thunder's 기술 블로그"
 title_separator          : "-"
 name                     : "Stupid thunder"
-description              : "An amazing(?) programmer."
+description              : "An amazing(?) website."
 url                      : "https://adrianlee76.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Stupid thunder"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am an amazing(?) programmer."
+  location         : "South Korea"
   email            :
   links:
     - label: "Email"
